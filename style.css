@@ -682,8 +682,8 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   right: 10px;
   width: auto;
   height: 50px;
-  background-color: rgb(103,115,131);
-  background-color: rgba(103,115,131,0.8);
+  background-color: rgb(58,68,84);
+  background-color: rgba(58,68,84,0.8);
   opacity: 0;
   -webkit-transition: opacity 0.3s ease-in-out 0.2s;
   transition: opacity 0.3s ease-in-out 0.2s;
@@ -757,8 +757,8 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   left: 10px;
   right: 10px;
   padding: 10px;
-  background-color: rgb(58,68,84);
-  background-color: rgba(58,68,84,0.8);
+  background-color: rgb(227, 11, 11);
+  background-color: rgba(227, 11, 11,0.8);
   overflow-y: auto;
   opacity: 0;
   -webkit-transition: opacity 0.3s ease-in-out;
@@ -786,8 +786,8 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   width: 40px;
   height: 40px;
   padding: 5px;
-  background-color: rgb(103,115,131);
-  background-color: rgba(103,115,131,0.8);
+  background-color: rgb(227, 11, 11);
+  background-color: rgba(227, 11, 11,0.8);
 }
 
 body.view-control-buttons .viewControlButton {
