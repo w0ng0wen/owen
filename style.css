@@ -207,8 +207,8 @@ body.fullscreen-enabled.mobile #autorotateToggle {
   width: 40px;
   height: 40px;
   padding: 5px;
-  background-color: rgb(103,115,131);
-  background-color: rgba(103,115,131,0.8);
+  background-color: rgb(219, 216, 15);
+  background-color: rgba(219, 216, 15,0.8);
 }
 
 .mobile #sceneListToggle {
@@ -325,8 +325,8 @@ body.fullscreen-enabled.mobile #autorotateToggle {
 }
 
 #sceneList .scene.current {
-  background-color: rgb(103,115,131);
-  background-color: rgba(103,115,131,0.8);
+  background-color: rgb(11, 22, 227);
+  background-color: rgba(11, 22, 227,0.8);
 }
 
 /* Hide scene list when only a single scene exists */
